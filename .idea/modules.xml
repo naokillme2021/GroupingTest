@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groupingTest.iml" filepath="$PROJECT_DIR$/.idea/modules/groupingTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groupingTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/groupingTest_main.iml" group="groupingTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groupingTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/groupingTest_test.iml" group="groupingTest" />
+    </modules>
+  </component>
+</project>
